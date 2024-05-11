@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bmp2JpgWpfDemo/1.0.0": {
+        "runtime": {
+          "Bmp2JpgWpfDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bmp2JpgWpfDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
